@@ -47,5 +47,13 @@ end
 # gem for authentication
 gem 'devise'
 
+# sabisu gem for test client api
+gem 'sabisu_rails', github: "IcaliaLabs/sabisu-rails"
+gem 'furatto', github: "IcaliaLabs/furatto-rails"
+gem 'compass-rails'
+gem 'font-awesome-rails'
+gem 'simple_form'
+
+
 
 
