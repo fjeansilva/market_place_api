@@ -44,7 +44,7 @@ group :test do
 end
 
 # gem for authentication
-#gem 'devise'
+gem 'devise'
 
 
 
