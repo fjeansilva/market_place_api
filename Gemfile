@@ -41,7 +41,7 @@ group :test do
 	gem "rspec-rails", "~> 2.14"
 	gem "factory_girl_rails"
 	gem "ffaker"
-	gem "shoulda-matchers"
+	gem 'shoulda-matchers', '~> 3.0'
 end
 
 # gem for authentication
